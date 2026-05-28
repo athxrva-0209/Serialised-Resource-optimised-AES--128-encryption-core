@@ -1,0 +1,12 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1779993747" />
+    <testcase name="test_fips_vectors" classname="test_complete_verification" file="/home/athxrva/AESCoreStage2/test/test_complete_verification.py" lineno="156" time="0.031865835189819336" sim_time_ns="27741.0" ratio_time="870556.1876772287" />
+    <testcase name="test_random_vectors" classname="test_complete_verification" file="/home/athxrva/AESCoreStage2/test/test_complete_verification.py" lineno="216" time="0.09595704078674316" sim_time_ns="61621.0" ratio_time="642172.7837246226" />
+    <testcase name="test_back_to_back" classname="test_complete_verification" file="/home/athxrva/AESCoreStage2/test/test_complete_verification.py" lineno="246" time="0.022973060607910156" sim_time_ns="18501.0" ratio_time="805334.5749512225" />
+    <testcase name="test_reset_during_operation" classname="test_complete_verification" file="/home/athxrva/AESCoreStage2/test/test_complete_verification.py" lineno="286" time="0.003862619400024414" sim_time_ns="3231.0" ratio_time="836478.9966051478" />
+    <testcase name="test_done_pulse_width" classname="test_complete_verification" file="/home/athxrva/AESCoreStage2/test/test_complete_verification.py" lineno="338" time="0.008626222610473633" sim_time_ns="3101.0" ratio_time="359485.27414941543" />
+    <testcase name="test_output_stability" classname="test_complete_verification" file="/home/athxrva/AESCoreStage2/test/test_complete_verification.py" lineno="396" time="0.0039288997650146484" sim_time_ns="3301.0" ratio_time="840184.3257479216" />
+    <testcase name="test_latency_breakdown" classname="test_complete_verification" file="/home/athxrva/AESCoreStage2/test/test_complete_verification.py" lineno="435" time="0.010395050048828125" sim_time_ns="1250.0" ratio_time="120249.54128440368" />
+  </testsuite>
+</testsuites>
