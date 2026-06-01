@@ -1,6 +1,6 @@
 # 🔐 AES-128 Encryption Core — Serialised / Resource-Optimised
 
-![Language](https://img.shields.io/badge/Language-Verilog%2FHDLl-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Verilog%2FHDL-blue?style=flat-square)
 ![Simulation](https://img.shields.io/badge/Simulation-Verilator-orange?style=flat-square)
 ![Testbench](https://img.shields.io/badge/Testbench-cocotb-green?style=flat-square&logo=python)
 ![Target](https://img.shields.io/badge/FPGA-Spartan--6%20XC6SLX9-purple?style=flat-square)
