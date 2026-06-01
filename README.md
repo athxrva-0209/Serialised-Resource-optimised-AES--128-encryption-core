@@ -11,10 +11,6 @@ A hardware implementation of the **Advanced Encryption Standard (AES-128)** in V
 
 Verification is done entirely in Python using **cocotb** with **Verilator** as the simulation backend.
 
-> Final Year Project — B.Tech Electronics & Telecommunication Engineering, VJTI Mumbai (2025–26)
-> **Authors:** Yash Jain · Atharva Nerkar · Atharva Wadnere · Eeshan Ajarekar
-> **Guide:** Dr. Neha Mishra
-
 ---
 
 ## 📋 Table of Contents
